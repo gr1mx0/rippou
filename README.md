@@ -1,4 +1,1 @@
-# openddos-deluxe
-OpenDDoS Deluxe is a DDoS/DoS tool that has many bypasses, methods and lots of power for Python script
-
-if you skid your gay
+#Kinda secret shhh...
