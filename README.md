@@ -6,7 +6,7 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/kz6iUkQuGZmN5HfB0t/giphy.gif" alt="Welcome!" width="300"/>
-
+<h1>
            .                                                      .            
         .n                   .                 .                  n.          
   .   .dP                  dP                   9b                 9b.    .   
@@ -28,7 +28,7 @@ dX.    9Xb      .dXb    __         gr1mx0          __    dXb.     dXP     .Xb
                               X. 9  `   '  P )X                               
                               `b  `       '  d'                               
                                `             '                                
-
+</h1>
 ⁍ɪ ᴜᴘʟᴏᴀᴅᴇᴅ ᴛʜɪs ᴄᴏᴘʏ ғᴏʀ ɢᴏᴏᴅ ᴜsᴇ, ᴛᴏ ᴛᴀᴋᴇ ᴅᴏᴡɴ ᴜsᴇʟᴇss sɪᴛᴇs ғᴏʀ ᴀɴᴏɴʏᴍᴏᴜs.
                                    ᴄʀᴇᴅɪᴛs:
                           (ᴅᴅᴏs ᴅᴇʟᴜxᴇ-ɢʜᴏsᴛᴀᴘᴜsᴛᴀᴊᴀ)("https://github.com/ghostapustaja/")
