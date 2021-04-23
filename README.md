@@ -11,4 +11,4 @@
                                    ᴄʀᴇᴅɪᴛs:
                           (ᴅᴅᴏs ᴅᴇʟᴜxᴇ-ɢʜᴏsᴛᴀᴘᴜsᴛᴀᴊᴀ)("https://github.com/ghostapustaja/")
                                                                                           
-                           Even tho they removed it,  >:)                 
+                         Even tho they removed it,  >:)                 
