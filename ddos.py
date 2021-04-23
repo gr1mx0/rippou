@@ -178,18 +178,27 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title Download: bit.ly/AnonyV28 ~ Anonymous DDoSer v2.8")
-    print('''                              .___.                              
-          /)               ,-^     ^-.                           
-         //               /           \                          
-.-------| |--------------/  __     __  \-------------------.__   
-|WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:> 
-`-------| |--------------| \__/   \__/ |-------------------'^^   
-         \\               \    /|\    /                          
-          \)               \   \_/   /                           
-                            |       |                            
-                            |+H+H+H+|                            
-                            \       /                            
-                             ^-----^                             
+    print('''          .                                                      .            
+        .n                   .                 .                  n.          
+  .   .dP                  dP                   9b                 9b.    .   
+ 4    qXb         .       dX                     Xb       .        dXp     t  
+dX.    9Xb      .dXb    __         gr1mx0          __    dXb.     dXP     .Xb 
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP 
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP  
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'   
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'     
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~         
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(                        
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.                       
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb                      
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb                     
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP                     
+                     `'      9XXXXXX(   )XXXXXXP      `'                      
+                              XXXX X.`v'.X XXXX                               
+                              XP^X'`b   d'`X^XX                               
+                              X. 9  `   '  P )X                               
+                              `b  `       '  d'                               
+                               `             '                                
                      Open-DDos Version: [ Deluxe ]''')
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
