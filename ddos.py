@@ -298,7 +298,7 @@ def proxies_list():
     if out_file == "":
         out_file = str(filenam1)+".txt"
     proxies = open(out_file).readlines()
-    #print ("[!] Number Of Proxies: %s" %(len(open(out_file).readlines())))
+    print ("[!] Number Of Proxies: %s" %(len(open(out_file).readlines())))
     logo()
     numthreads()
 
@@ -310,7 +310,7 @@ def proxyget():
     f.write(r1.content)
     f.close() 
     proxies = open(out_file).readlines()
-    #print("[!] Get Proxies Successfully ( Live 100% ) [" +out_file+ "] = [ " +str(len(open(out_file).readlines()))+ " ]")
+    print("[!] Get Proxies Successfully ( Live 100% ) [" +out_file+ "] = [ " +str(len(open(out_file).readlines()))+ " ]")
     logo()
     numthreads()
 
