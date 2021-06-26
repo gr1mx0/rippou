@@ -11,7 +11,7 @@
                                    ᴄʀᴇᴅɪᴛs:
                           (ᴅᴅᴏs ᴅᴇʟᴜxᴇ-ɢʜᴏsᴛᴀᴘᴜsᴛᴀᴊᴀ)("https://github.com/ghostapustaja/")
                                                                                           
-                         !git clone https://github.com/gr1mx0/rippou
-                         %cd rippou
-                         !python ddos.py
-                         (https://colab.research.google.com/)
+                     !git clone https://github.com/gr1mx0/rippou
+                     %cd rippou
+                     !python ddos.py
+                     (https://colab.research.google.com/)
