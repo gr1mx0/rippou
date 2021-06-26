@@ -420,7 +420,7 @@ def choice_down_proxies():
     choice4 = input("[?] Get New List " +str(filenam2)+ " [Y/N]: ")
     if (choice4 == "y") or (choice4 == "Y"):
         print("-----------------------------")
-        print("|_--> 1: Server X")
+        print("|_--> 1: Server X (choose 2...just saying)")
         print("|_--> 2: Server Z")
         sel_pr = input("[?] Server Get [1/2]: ")
         if choice_mode == "proxy":
