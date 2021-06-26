@@ -432,7 +432,7 @@ def choice_down_proxies():
             if sel_pr == "1":
                 urlproxy = "https://www.proxy-list.download/api/v1/get?type=socks5"
             else:
-                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=all&country=all&timeout=1700000&anonymity=all&ssl=all"
+                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4;socks5&country=all&timeout=1700000&anonymity=all&ssl=all"
         proxyget()
     else:
         print("[!] Selected No Get New List " +str(filenam2)+ " [!]")
