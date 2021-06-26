@@ -298,7 +298,7 @@ def proxies_list():
     if out_file == "":
         out_file = str(filenam1)+".txt"
     proxies = open(out_file).readlines()
-    print ("[!] Number Of Proxies: %s" %(len(open(out_file).readlines())))
+    #print ("[!] Number Of Proxies: %s" %(len(open(out_file).readlines())))
     logo()
     numthreads()
 
@@ -310,7 +310,7 @@ def proxyget():
     f.write(r1.content)
     f.close() 
     proxies = open(out_file).readlines()
-    print("[!] Get Proxies Successfully ( Live 100% ) [" +out_file+ "] = [ " +str(len(open(out_file).readlines()))+ " ]")
+    #print("[!] Get Proxies Successfully ( Live 100% ) [" +out_file+ "] = [ " +str(len(open(out_file).readlines()))+ " ]")
     logo()
     numthreads()
 
@@ -427,12 +427,12 @@ def choice_down_proxies():
             if sel_pr == "1":
                 urlproxy = "https://www.proxy-list.download/api/v1/get?type=http"
             else:
-                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=15000&country=all&anonymity=all"
+                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=15000&country=all&anonymity=elite"
         else:
             if sel_pr == "1":
                 urlproxy = "https://www.proxy-list.download/api/v1/get?type=socks5"
             else:
-                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4;socks5&country=all&timeout=1700000&anonymity=all&ssl=all"
+                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4;socks5&country=all&timeout=1700000&anonymity=elite&ssl=all"
         proxyget()
     else:
         print("[!] Selected No Get New List " +str(filenam2)+ " [!]")
