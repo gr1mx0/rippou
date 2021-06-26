@@ -10,12 +10,12 @@
 ⁍ɪ ᴜᴘʟᴏᴀᴅᴇᴅ ᴛʜɪs ᴄᴏᴘʏ ғᴏʀ ɢᴏᴏᴅ ᴜsᴇ, ᴛᴏ ᴛᴀᴋᴇ ᴅᴏᴡɴ ᴜsᴇʟᴇss sɪᴛᴇs.
                                    ᴄʀᴇᴅɪᴛs:
                           (ᴅᴅᴏs ᴅᴇʟᴜxᴇ-ɢʜᴏsᴛᴀᴘᴜsᴛᴀᴊᴀ)("https://github.com/ghostapustaja/")
- <h2>                                                                                         
+                                                                                        
                      !git clone https://github.com/gr1mx0/rippou
                      %cd rippou
                      !python ddos.py
                      (https://colab.research.google.com/)
                      I don't take responsibility for your doings
                      /Saturday/June26th/2021/
-   </h2>
+
 <div align="center" width="50">
