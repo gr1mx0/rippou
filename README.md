@@ -15,3 +15,5 @@
                      %cd rippou
                      !python ddos.py
                      (https://colab.research.google.com/)
+                     I don't take responsibility for your doings
+                     /Saturday/June26th/2021/
