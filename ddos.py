@@ -427,7 +427,7 @@ def choice_down_proxies():
             if sel_pr == "1":
                 urlproxy = "https://www.proxy-list.download/api/v1/get?type=http"
             else:
-                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=15000&country=all&anonymity=elite"
+                urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&country=all&timeout=1100&anonymity=elite&ssl=yes"
         else:
             if sel_pr == "1":
                 urlproxy = "https://www.proxy-list.download/api/v1/get?type=socks5"
