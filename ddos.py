@@ -453,7 +453,7 @@ def begin():
     choice6 = input('=*= Press "Enter" to start attack: ')
     if choice6 == "":
         #webbrowser.open("https://youtu.be/9WV1EALFiN0", new=0, autoraise=True)
-        if ("edu" in url) or ("vn" in url) or ("hentai" in url) or ("porn" in url):
+        if ("edu" in url) or ("vn" in url) or ("hentai" in url) or ("porn" in url) or ("gov" in url):
             print("[+] Admin: Save the Soul Being Captured by Evil!")
             sleep(3)
         attack()
