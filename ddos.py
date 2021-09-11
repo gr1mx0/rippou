@@ -430,7 +430,7 @@ def choice_down_proxies():
                 urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=http;socks4&country=all&timeout=1100&anonymity=elite&ssl=yes"
         else:
             if sel_pr == "1":
-                urlproxy = "https://www.proxy-list.download/api/v1/get?type=socks5"
+                urlproxy = "https://www.proxy-list.download/api/v1/get?type=socks4"
             else:
                 urlproxy = "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5;socks4&country=all&timeout=1100&anonymity=elite&ssl=yes"
         proxyget()
