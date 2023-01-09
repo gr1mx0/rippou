@@ -11,11 +11,11 @@
                                    ᴄʀᴇᴅɪᴛs:
                           (ᴅᴅᴏs ᴅᴇʟᴜxᴇ-ɢʜᴏsᴛᴀᴘᴜsᴛᴀᴊᴀ)("https://github.com/ghostapustaja/")
                                                                                         
-                     !git clone https://github.com/gr1mx0/rippou
-                     %cd rippou
-                     !python ddos.py
-                     (https://colab.research.google.com/)
-                     I don't take responsibility for your doings
-                     /Saturday/June26th/2021/
+!git clone https://github.com/gr1mx0/rippou
+%cd rippou
+!python ddos.py
+(https://colab.research.google.com/)
+I don't take responsibility for your doings
+/Saturday/June26th/2021/
 
 <div align="center" width="50">
