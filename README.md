@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/kz6iUkQuGZmN5HfB0t/giphy.gif" alt="Welcome!" width="300"/>
+
 <div align="center">
 ⁍ɪ ᴜᴘʟᴏᴀᴅᴇᴅ ᴛʜɪs ᴄᴏᴘʏ ғᴏʀ ɢᴏᴏᴅ ᴜsᴇ, ᴛᴏ ᴛᴀᴋᴇ ᴅᴏᴡɴ ᴜsᴇʟᴇss sɪᴛᴇs.
                                    ᴄʀᴇᴅɪᴛs:
