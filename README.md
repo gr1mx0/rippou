@@ -15,11 +15,21 @@
   
   
   
-<clipboard-copy> !git clone https://github.com/gr1mx0/rippou
-<clipboard-copy> %cd rippou
-<clipboard-copy> !python ddos.py
-<clipboard-copy> (https://colab.research.google.com/)
-<clipboard-copy> I don't take responsibility for your doings
+ ```
+  !git clone https://github.com/gr1mx0/rippou
+  ```
+ ```
+  %cd rippou
+  ```
+ ```
+  !python ddos.py
+  ```
+```
+  (https://colab.research.google.com/)
+  ```
+```
+  I don't take responsibility for your doings
+  ```
 /Saturday/June26th/2021/
 
 <div align="center" width="50">
